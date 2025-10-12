@@ -1,3 +1,4 @@
+from typing import List
 def longest_positive_streak(nums: List[int]) -> int:
     """
     Calculates the length of the longest run of consecutive positive integers in a list.
